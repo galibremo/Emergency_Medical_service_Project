@@ -199,7 +199,7 @@ namespace MedicalService.UserForms
             this.UserAmbPriceTag.AutoSize = true;
             this.UserAmbPriceTag.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.UserAmbPriceTag.ForeColor = System.Drawing.Color.White;
-            this.UserAmbPriceTag.Location = new System.Drawing.Point(277, 398);
+            this.UserAmbPriceTag.Location = new System.Drawing.Point(237, 396);
             this.UserAmbPriceTag.Name = "UserAmbPriceTag";
             this.UserAmbPriceTag.Size = new System.Drawing.Size(0, 18);
             this.UserAmbPriceTag.TabIndex = 79;
